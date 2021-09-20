@@ -1,4 +1,4 @@
-
+<a href="https://www.aKamrani.ir" target="_blank"><img src="./Profile-Banner.png"></a>
 
 <p align="center">
     <a href="https://www.aKamrani.ir"><img src="https://img.icons8.com/bubbles/50/000000/link.png" alt="Portfolio"/></a>
@@ -20,7 +20,7 @@ Technologies that I've been learning and I've picked up along my programming jou
 
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?logo=TypeScript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript%20-%238BB904.svg?logo=TypeScript&logoColor=black)
 ![Go](https://img.shields.io/badge/go%20-%2300ACD7.svg?logo=go&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart%20-%23025596.svg?logo=Dart&logoColor=white)
 
