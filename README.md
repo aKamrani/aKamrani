@@ -2,7 +2,7 @@
 <a href="https://www.aKamrani.ir" target="_blank"><img src="./Profile-Banner.png"></a>
 
 <p align="center">
-    <a href="https://www.aKamrani.com"><img src="https://img.icons8.com/bubbles/50/000000/link.png" alt="Portfolio"/></a>
+    <a href="https://aKamrani.com"><img src="https://img.icons8.com/bubbles/50/000000/link.png" alt="Portfolio"/></a>
 	<a href="https://github.com/aKamrani"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/akamrani/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
     <a href="https://www.instagram.com/githubtrending/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
