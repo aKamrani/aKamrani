@@ -31,11 +31,11 @@ Technologies that I've been learning and I've picked up along my programming jou
 
 <p align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-<img alt="python" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3">
-<img alt="python" src="https://img.shields.io/badge/Angular-BD002E?logo=Angular">
-<img alt="python" src="https://img.shields.io/badge/Flutter%20-%2366B1F1.svg?logo=Flutter&logoColor=white">
-<img alt="python" src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white">
-<img alt="python" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white">
+<img alt="css" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3">
+<img alt="nuxt.js" src="https://img.shields.io/badge/Nuxt-2e475b?logo=nuxt.js">
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2366B1F1.svg?logo=Flutter&logoColor=white">
+<img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white">
+<img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white">
 </P>
 
 ### ✨ Backend :
