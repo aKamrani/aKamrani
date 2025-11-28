@@ -1,5 +1,5 @@
 
-<a href="https://www.aKamrani.ir" target="_blank"><img src="./Profile-Banner-new.png"></a>
+<a href="https://www.aKamrani.ir" target="_blank"><img src="./Profile-Banner-2025.png"></a>
 
 <p align="center">
     <a href="https://aKamrani.com"><img src="https://img.icons8.com/bubbles/50/000000/link.png" alt="Portfolio"/></a>
