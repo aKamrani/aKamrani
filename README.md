@@ -140,9 +140,17 @@ Technologies that I've been learning and I've picked up along my programming jou
 <div>
 
   <div align="center">
-    <img alt="Amirhossein's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akamrani&show_icons=true&include_all_commits=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/>
+    <a href="https://github.com/akamrani">
+      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akamrani&theme=react" alt="Amirhossein's Github Stats" />
+    </a>
     <br/>
-    <img alt="Amirhossein's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akamrani&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/>
+    <br/>
+    <a href="https://github.com/akamrani">
+      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akamrani&theme=react" alt="Amirhossein's Github Stats" />
+    </a>
+    <a href="https://github.com/akamrani">
+      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akamrani&theme=react" alt="Amirhossein's Top Languages" />
+    </a>
   </div>
 
   <hr/>
