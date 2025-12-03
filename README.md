@@ -141,14 +141,14 @@ Technologies that I've been learning and I've picked up along my programming jou
 
   <div align="center">
     <a href="#"><img alt="Amirhossein's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akamrani&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
-    <a href="#"><img alt="Amirhossein's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardly-Human&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
+    <a href="#"><img alt="Amirhossein's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akamrani&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
     <br/>
 
   </div>
 
   <hr/>
 
-  <div>
+  <div align="center">
     <a href="#"><img alt="Amirhossein's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=akamrani&custom_title=Amirhossein%20Kamrani's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
-  <div>
+  </div>
 </div>
