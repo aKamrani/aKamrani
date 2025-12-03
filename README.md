@@ -12,9 +12,11 @@
 ## 👨‍💻 About Me
 I'm a DevSecOps & software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Also skilled in Machine learning, Javascript/Python Fullstack Development.
 
-## 🛠️ &nbsp;Tech Stack
+## 🛠️ &nbsp;Tech Stacks
 
 Technologies that I've been learning and I've picked up along my programming journey.
+
+<div align="center">
 
 <table>
   <tr>
@@ -126,6 +128,8 @@ Technologies that I've been learning and I've picked up along my programming jou
     <td></td>
   </tr>
 </table>
+
+</div>
 
 
 
