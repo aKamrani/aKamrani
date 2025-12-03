@@ -10,10 +10,7 @@
 </p>
 
 ## 👨‍💻 About Me
-
-<p align="center">
-  I'm a DevSecOps & software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Also skilled in Machine learning, Javascript/Python Fullstack Development.
-</p>
+I'm a DevSecOps & software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Also skilled in Machine learning, Javascript/Python Fullstack Development.
 
 ## 🛠️ &nbsp;Tech Stack
 
@@ -51,7 +48,7 @@ Technologies that I've been learning and I've picked up along my programming jou
 <img alt="Dart" height="" src="https://img.shields.io/badge/Dart%20-%23025596.svg?logo=Dart&logoColor=white">
 </P>
 
-### 🌐 Frontend
+<h3 align="center">🌐 Frontend</h3>
 
 <p align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
@@ -62,7 +59,7 @@ Technologies that I've been learning and I've picked up along my programming jou
 <img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white">
 </P>
 
-### ✨ Backend
+<h3 align="center">✨ Backend</h3>
 
 <div align="center">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white">
@@ -81,8 +78,7 @@ Technologies that I've been learning and I've picked up along my programming jou
   <img alt="redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white">
 </div>
 
-### 🚀 Cloud and Deployment
-
+<h3 align="center">🚀 Cloud and Deployment</h3>
 <div align="center">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white">
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white">
@@ -92,7 +88,7 @@ Technologies that I've been learning and I've picked up along my programming jou
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white">
 </div>
 
-### 🤖 ML & AI
+<h3 align="center">🤖 ML & AI</h3>
 
 <div align="center">
   <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?logo=numpy&logoColor=white">
@@ -106,8 +102,7 @@ Technologies that I've been learning and I've picked up along my programming jou
   <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&logoColor=white">
 </div>
 
-### 🛠 OS & IDE & Tools
-
+<h3 align="center">🛠 OS & IDE & Tools</h3>
 <div align="center">
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-black?logo=ubuntu">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white">
