@@ -121,7 +121,7 @@ Technologies that I've been learning and I've picked up along my programming jou
 
 <h2>📃 Github Stats</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akamrani&label=Profile%20Views%20&color=dc143c&style=plastic" alt="akamrani" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=akamrani&label=Profile%20Views%20&color=dc143c&style=plastic" alt="akamrani" /> </p>
 
 <div>
 
