@@ -103,6 +103,7 @@ Technologies that I've been learning and I've picked up along my programming jou
 </div>
 
 <h3 align="center">🛠 OS & IDE & Tools</h3>
+
 <div align="center">
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-black?logo=ubuntu">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white">
