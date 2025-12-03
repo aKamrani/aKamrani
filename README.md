@@ -10,7 +10,7 @@
 </p>
 
 ## 👨‍💻 About Me
-I'm a DevSecOps & software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Also skilled in Machine learning, Javascript/Python Fullstack Development.
+I'm Amir, a full-cycle DevSecOps and software engineer dedicated to making open-source technology more accessible, empowering people through innovative solutions, and building strong communities. I have expertise in ML/AI and full-stack development with JavaScript and Python.
 
 ## 🛠️ &nbsp;Tech Stacks
 
