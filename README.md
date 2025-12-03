@@ -19,20 +19,27 @@ Technologies that I've been learning and I've picked up along my programming jou
 
 ### ♾️ DevOps Technologies :
 
-<p align="center">
-<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white">
-<img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white">
-<img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white">
-<img alt="GitLab CI" src="https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab&logoColor=white">
-<img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white">
-<img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white">
-<img alt="Zabbix" src="https://img.shields.io/badge/Zabbix-CC0000?logo=zabbix&logoColor=white">
-<img alt="Graylog" src="https://img.shields.io/badge/Graylog-222222?logo=graylog&logoColor=white">
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white">
-<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
-<img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white">
-<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white">
-</p>
+<table align="center">
+  <tr>
+    <td><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"></td>
+    <td><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white"></td>
+    <td><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"></td>
+    <td><img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white"></td>
+  </tr>
+  <tr>
+    <td><img alt="GitLab CI" src="https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab&logoColor=white"></td>
+    <td><img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white"></td>
+    <td><img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white"></td>
+    <td><img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white"></td>
+  </tr>
+  <tr>
+    <td><img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white"></td>
+    <td><img alt="Zabbix" src="https://img.shields.io/badge/Zabbix-CC0000?logo=zabbix&logoColor=white"></td>
+    <td><img alt="Graylog" src="https://img.shields.io/badge/Graylog-222222?logo=graylog&logoColor=white"></td>
+    <td><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white"></td>
+  </tr>
+</table>
+
 
 ### 👨‍💻 Programming Languages :
 
