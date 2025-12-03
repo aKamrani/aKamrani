@@ -19,7 +19,7 @@
 
 Technologies that I've been learning and I've picked up along my programming journey.
 
-### ♾️ DevOps Technologies :
+<h3 align="center">♾️ DevOps Technologies</h3>
 
 <div align="center">
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white">
@@ -41,8 +41,7 @@ Technologies that I've been learning and I've picked up along my programming jou
 </div>
 
 
-
-### 👨‍💻 Programming Languages :
+<h3 align="center">👨‍💻 Programming Languages</h3>
 
 <p align="center">
 <img alt="python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
@@ -52,7 +51,7 @@ Technologies that I've been learning and I've picked up along my programming jou
 <img alt="Dart" height="" src="https://img.shields.io/badge/Dart%20-%23025596.svg?logo=Dart&logoColor=white">
 </P>
 
-### 🌐 Frontend :
+### 🌐 Frontend
 
 <p align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
@@ -63,7 +62,7 @@ Technologies that I've been learning and I've picked up along my programming jou
 <img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white">
 </P>
 
-### ✨ Backend :
+### ✨ Backend
 
 <div align="center">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white">
@@ -82,7 +81,7 @@ Technologies that I've been learning and I've picked up along my programming jou
   <img alt="redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white">
 </div>
 
-### 🚀 Cloud and Deployment :
+### 🚀 Cloud and Deployment
 
 <div align="center">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white">
@@ -93,7 +92,7 @@ Technologies that I've been learning and I've picked up along my programming jou
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white">
 </div>
 
-### 🤖 ML & AI :
+### 🤖 ML & AI
 
 <div align="center">
   <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?logo=numpy&logoColor=white">
@@ -107,7 +106,7 @@ Technologies that I've been learning and I've picked up along my programming jou
   <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&logoColor=white">
 </div>
 
-### 🛠 OS & IDE & Tools : <br />
+### 🛠 OS & IDE & Tools
 
 <div align="center">
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-black?logo=ubuntu">
