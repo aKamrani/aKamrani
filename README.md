@@ -10,7 +10,7 @@
 </p>
 
 ## 👨‍💻 About Me
-I'm AmiR, a full-cycle DevSecOps and software engineer dedicated to making open-source technologies more accessible, empowering people through innovative solutions, and building strong communities. I have expertise in ML/AI and full-stack development with JavaScript and Python.
+I'm AmiR, a full-cycle DevSecOps and software engineer dedicated to making open-source technologies more accessible, empowering people through innovative solutions, and building strong communities. I have expertise in ML/AI and full-stack development with JavaScript and Python - for more info google my name ✨
 
 ## ♾️ &nbsp;Tech Stacks
 
