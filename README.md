@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 I'm AmiR, a full-cycle DevSecOps and software engineer dedicated to making open-source technology more accessible, empowering people through innovative solutions, and building strong communities. I have expertise in ML/AI and full-stack development with JavaScript and Python.
 
-## 🛠️ &nbsp;Tech Stacks
+## ♾️ &nbsp;Tech Stacks
 
 Technologies that I've been learning and I've picked up along my programming journey.
 
@@ -21,7 +21,7 @@ Technologies that I've been learning and I've picked up along my programming jou
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3 align="center">♾️ DevOps Technologies</h3>
+      <h3 align="center">🚀 DevOps Technologies</h3>
       <div align="center">
         <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white">
         <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white">
@@ -86,17 +86,6 @@ Technologies that I've been learning and I've picked up along my programming jou
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h3 align="center">🚀 Cloud and Deployment</h3>
-      <div align="center">
-        <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white">
-        <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white">
-        <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white">
-        <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white">
-        <br>
-        <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white">
-      </div>
-    </td>
-    <td valign="top" width="50%">
       <h3 align="center">🤖 ML & AI</h3>
       <div align="center">
         <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?logo=numpy&logoColor=white">
@@ -110,10 +99,8 @@ Technologies that I've been learning and I've picked up along my programming jou
         <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&logoColor=white">
       </div>
     </td>
-  </tr>
-  <tr>
     <td valign="top" width="50%">
-      <h3 align="center">🛠 OS & IDE & Tools</h3>
+      <h3 align="center">🛠️ OS & IDE & Tools</h3>
       <div align="center">
         <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-black?logo=ubuntu">
         <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white">
@@ -125,7 +112,6 @@ Technologies that I've been learning and I've picked up along my programming jou
         <img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&color=525252">
       </div>
     </td>
-    <td></td>
   </tr>
 </table>
 
